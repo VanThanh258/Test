@@ -4,7 +4,7 @@ import React from "react";
 const Develop = () => {
   return (
     <View style={styles.container}>
-      <Text style={{ color: "red" }}>Develop</Text>
+      <Text style={{ color: "red" }}>Development</Text>
     </View>
   );
 };
